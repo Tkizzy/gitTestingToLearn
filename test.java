@@ -7,6 +7,8 @@ static {
 
 System.out.println("The test class has loaded!!! Git is working?");
 
+System.out.println("This is step 2. HA!!!!");
+
 
 }
 
